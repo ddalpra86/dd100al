@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.dalpra.acme</groupId>
-    <artifactId>dd100mn</artifactId>
+    <artifactId>dd100al</artifactId>
     <version>1.202101</version>
     <packaging>war</packaging>
 
